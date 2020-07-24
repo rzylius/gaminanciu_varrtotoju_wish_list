@@ -1,1 +1,1 @@
-# gaminanciu_varrtotoju_wish_list
+# gaminanciu_vartotoju_wish_list
