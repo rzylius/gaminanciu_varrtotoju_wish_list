@@ -1,5 +1,6 @@
 # Gaminančių vartotojų poreikių sąrašas
-
+#
+#
 
 # Dviejų zonų tarifas
 
@@ -17,10 +18,8 @@ sprendimas aiškus - ESO turi paalikti galimybę gaminančiam vartotojui pasirin
 ESO atstovai 2020 pavasarį Seimo Ekonomikos komitete viešai pažadėjo, kad tokia galimybė bus padaryta. Išmanūs skaitikliai yra išmanūs :), tad sugeba rinkti duomenis, reikia tik modifikuoti apskaitos sistemą, kad ji skaičiuotų valandines energijos apimtis, o ne mėnesines.
 Daugiau jokių žadėjimų ar žinių apie eigą neužfiksuota.
 
-
-
-
-
+#
+#
 # Instaliuota galia laikoma saulės elementų suminė galia, net jei ji didesnė už maksimalią inverterio galią
 
 ## PROBLEMA
@@ -43,8 +42,8 @@ Reikia pasitvirtinti ar tai tikrai problema, kurąi reikia spręsti.
 
 
 
-
-
+#
+#
 # Pasinaudojimo tinklais mokestis nėra pagrįstas
 
 ## PROBLEMA
@@ -57,7 +56,8 @@ VERT ar kita nepriklausoma institucija turėtų parengti išsamią studiją iša
 Neatrodo, kad instutucijos kaip nors reaguotų į šį siūlymą.
 
 
-
+#
+#
 # Trifazio gaminanančio-vartotojo energijos mainų apskaita
 
 ## PROBLEMA
