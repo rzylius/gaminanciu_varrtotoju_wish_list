@@ -6,6 +6,8 @@
 ## PROBLEMA
 šiuo metu įsiregitravus gaminančiu vartotoju, Ignitis/ESO ima taikyti vienos zonos tarifą, gaminančiam-vartotojui neduodama jokio pasirinkimo teisės. Toks pakeitimas daromas Ignitis/ESO taisyklių pagrindu, jokiame įstatyme nėra tokio pakeitimo nuorodos.
 
+Pastebėtina, kad dėl tokio apskaitos būto nepriklausomi tiekėjai taip pat negali pasiūlyti dviejų zonų tarifo (technologiškai jie gali pasiūlytik tik tokios struktūros tarifus, kuriuos gali pasiūlyti ESO).
+
 Tai yra nesąžiningas veiksmas gaminančių vartotojų atžvilgiu- jei gaminančio vartotojo poreikis metiniam energijos kiekiui padidėjo (pvz.: nusipirko elektromobilį), tai papildomą energiją jsi turės pirkti vienos zonos tarifu (negalės pasinaudoti naktį pigesnio krovimo galimybe).
 
 ## SPRENDIMAS
@@ -14,6 +16,9 @@ sprendimas aiškus - ESO turi paalikti galimybę gaminančiam vartotojui pasirin
 ## STATUSAS
 ESO atstovai 2020 pavasarį Seimo Ekonomikos komitete viešai pažadėjo, kad tokia galimybė bus padaryta. Išmanūs skaitikliai yra išmanūs :), tad sugeba rinkti duomenis, reikia tik modifikuoti apskaitos sistemą, kad ji skaičiuotų valandines energijos apimtis, o ne mėnesines.
 Daugiau jokių žadėjimų ar žinių apie eigą neužfiksuota.
+
+
+
 
 
 # Instaliuota galia laikoma saulės elementų suminė galia, net jei ji didesnė už maksimalią inverterio galią
@@ -35,6 +40,38 @@ Nustatyti, kad "instaliuota galia" laikima mažesnė iš šių dviejų komponent
 
 ## STATUSAS
 Reikia pasitvirtinti ar tai tikrai problema, kurąi reikia spręsti.
+
+
+
+
+
+# Pasinaudojimo tinklais mokestis nėra pagrįstas
+
+## PROBLEMA
+Šiuo metu VERT taiko patvirtintą metodolokgiją nustatyti pasinaudojimo tinklais tarifą gaminantiems vartotojams (jis yra tam paprasto buitinio elektros vartotojo naudojimosi tikra dalis). Tačiau pati VERT pripažįsta, kad tarifas neatsižvelgia į elektros kainų svyravimą dienos - nakties metu, neatsižvelgia į elektros kainos pokyčių sezoniškumą. Tad gaminančių vartotojų bendruomenėje nuoalatos jaučiama nuoskauda, dėl nesąžiningo naudojimo tinklu kainos nustatymo.
+
+## SPRENDIMAS
+VERT ar kita nepriklausoma institucija turėtų parengti išsamią studiją išanalizuojant ir įvertinant tikrus kaštus, kuriuos patiria skirstomasis tinklas dėl gaminančių vartotojų, tikrus sutaupymus ir kitas naudas, bei pasiūlytų modelį atitinkamai jas įvertinti.
+
+## STATUSAS
+Neatrodo, kad instutucijos kaip nors reaguotų į šį siūlymą.
+
+
+
+# Trifazio gaminanančio-vartotojo energijos mainų apskaita
+
+## PROBLEMA
+Dauguma trifazių inverterių šiomis dienomis generuojamą energiją paskirsto per fazes tolygiai, t.y. neatsižvelgiant į namo vartojimą pagal fazes. Tad labai dažna situacija, kai gaminantis vartotojas generuoja konkrečiu momentu daugiau, nei suvartoja, tačiau dėl generavimo ir apkrovos fazių nesuderinimo, ESO skaitliukas skaičiuoja kad dalis energijos yra pateikiama į tinklą per vienas fazes, o vartojama per kitas (nors bendra generavimo galia yra didesnė nei vartojimo galia). Natūraliai šie gaminantys vartotojai jaučia kartėlį ir nepasitenkinimą.
+
+## SPRENDIMAS
+ESO turi aiškiai pagrįsti tokios apskaitos logiškumą ir pagrįstumą, arba pakeisti apskaitos metodą į suminę galios ir apkrovos apskaitą.
+
+## STATUSAS
+Joks
+
+
+
+
 
 
 
