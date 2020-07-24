@@ -69,6 +69,21 @@ ESO turi aiškiai pagrįsti tokios apskaitos logiškumą ir pagrįstumą, arba p
 ## STATUSAS
 Joks
 
+#
+#
+# Gaminantis vartotojas, turintis du nekilnojamo turto objektus, privalo fiksuotai paskirstyti jiems naudojamą elektrinės galią
+
+## PROBLEMA
+Tai, kad privaloma fiksuotai paskirstyti jėgainės galią dviems ar daugiau objektų sudėtingina gaminančio vartotojo gyvenimą ir sukelia jausmą, kad jis yra smulkiai apgaudinėjamas progai pasitaikius. Galios fiksuotas paskirstymas beveik visada reikš, kad vienas objektas energiją pernaudojo (tad tą mėnesį reikia primokėti), kitas nepanaudojo, tad čia susidarė perteklius.
+
+## SPRENDIMAS
+ESO turi sudaryti galimybę kelis to pačio savininko objektus apskaityti kaip vieną. Tai jau dabar padaryta su jėgainėmis - jei asmuo turi kelias jėgaines, jos apskaitomos kaip viena. Tuo būdu visa jėgainės galia būtų paskirtstyta tarp objektų pagal poreikį, o ne pagal fiksuotas proporcijas.
+
+## STATUSAS
+joks
+
+
+
 
 
 
