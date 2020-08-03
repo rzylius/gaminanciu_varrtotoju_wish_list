@@ -16,7 +16,8 @@ sprendimas aiškus - ESO turi paalikti galimybę gaminančiam vartotojui pasirin
 
 ## STATUSAS
 ESO atstovai 2020 pavasarį Seimo Ekonomikos komitete viešai pažadėjo, kad tokia galimybė bus padaryta. Išmanūs skaitikliai yra išmanūs :), tad sugeba rinkti duomenis, reikia tik modifikuoti apskaitos sistemą, kad ji skaičiuotų valandines energijos apimtis, o ne mėnesines.
-Daugiau jokių žadėjimų ar žinių apie eigą neužfiksuota.
+2020-rugpjūtį, ESO patikino, kad iki 2021 metų balandžio pirmos bus pakeista apskaitos programa, kad gaminantys vartotojai galėtų rinktis ir 2 ir 4 zonų tarifus
+
 
 #
 #
