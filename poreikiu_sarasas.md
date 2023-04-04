@@ -15,9 +15,7 @@ Tai yra nesąžiningas veiksmas gaminančių vartotojų atžvilgiu- jei gaminan�
 sprendimas aiškus - ESO turi paalikti galimybę gaminančiam vartotojui pasirinkti vienos ar dviejų zonų tarifą.
 
 ## STATUSAS
-ESO atstovai 2020 pavasarį Seimo Ekonomikos komitete viešai pažadėjo, kad tokia galimybė bus padaryta. Išmanūs skaitikliai yra išmanūs :), tad sugeba rinkti duomenis, reikia tik modifikuoti apskaitos sistemą, kad ji skaičiuotų valandines energijos apimtis, o ne mėnesines.
-2020-rugpjūtį, ESO patikino, kad iki 2021 metų balandžio pirmos bus pakeista apskaitos programa, kad gaminantys vartotojai galėtų rinktis ir 2 ir 4 zonų tarifus
-
+IŠSPRĘSTA - gaminantis vartotojas gali rinktis 1,2,4 zontų ESO tarifą
 
 #
 #
@@ -55,7 +53,9 @@ VERT ar kita nepriklausoma institucija turėtų parengti išsamią studiją iša
 
 ## STATUSAS
 Neatrodo, kad instutucijos kaip nors reaguotų į šį siūlymą.
+NetBillingas šį klausimą pilnai išspręstų (nes priduotos į tinklą kilovatvalandės būtų paverčiamos eurais pagal biržą, o sunaudotos būtų apskaitomis taip pat eurais pagalbiržos kainą). 
 
+Netbillingo mintis GV bendruomenėje sulaukia labai prieštaringų vertinimų, tad čia pageidautinas savanoriškumo principas.
 
 #
 #
@@ -81,7 +81,7 @@ Tai, kad privaloma fiksuotai paskirstyti jėgainės galią dviems ar daugiau obj
 ESO turi sudaryti galimybę kelis to pačio savininko objektus apskaityti kaip vieną. Tai jau dabar padaryta su jėgainėmis - jei asmuo turi kelias jėgaines, jos apskaitomos kaip viena. Tuo būdu visa jėgainės galia būtų paskirtstyta tarp objektų pagal poreikį, o ne pagal fiksuotas proporcijas.
 
 ## STATUSAS
-joks
+Neoficialiomis žiniomis šis pakeitimas ruošiamas ir kažkada 2023 metais turėtų būti įjungtas.
 
 
 
